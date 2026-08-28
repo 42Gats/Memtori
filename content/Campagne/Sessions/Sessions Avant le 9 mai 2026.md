@@ -1,0 +1,9 @@
+Les sessions avant le 9 mai n'étaient pas reportés sur un document et en voici un bref résumé.
+
+Les joueurs suivent le fil conducteur du [[Prologue - Le réveil]] puis entrent dans le [[République de Yudor|Royaume de Yudor]].
+Le [[Chapitre 1 - Le Royaume de Yudor]] suit également son court à l'exception que les joueurs décident d'aller inspecter un nid d'ours hibou entre cendreval et rougefeu. Dans celui ci, ils trouvent un marchand de blanche rive qui semble avoir été attaqué par les bêtes. Avoir l'avoir secouru, Percy et Zinédinne decident de le tuer car le marchand leur a demander de lui repayer ses potions de soin qu'il a utilisé sur eux. Dans sa chariole, les joueurs trouvent un bracelet permettant d'aller dans le plan astral afin de combattre des personnage de pop culture.
+A rougefeu, le groupe decide de participer a un tournoi de Pong Pong (en référence a la backstory de [[Zinédinne Griezman]]) organisé par [[Yur'gu]]. Les joueurs gagnent et se lient d'amitié avec le personnage.
+Après cela, ils retournent à Yudor et tue [[Tar Gal]] avec l'aide de [[Yur'gu]] et [[Dummick]]. Oncle Joe (le tavernier du [[République de Yudor|Royaume de Yudor]], devient un personnage important pour le groupe).
+Une fois le [[Chapitre 1 - Le Royaume de Yudor]] cloturé, les joueurs partent pour Blanche Rive.
+
+Là Haut, ils se font jeter en prison par la patte givrée qui ont découvert le meurtre du marchand. Ils font la connaissance de zamatta en prison également et de Sigrid qui vient les réprimander. Après leur procés qui s'est soldé par l'intervention de Yule, les joueurs partent en route vers le temple de kelemvor pour se débarasser du culte de Bhaal afin de montrer a Blanche rive qu'ils peuvent se racheter.
