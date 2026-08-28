@@ -131,3 +131,5 @@ Le groupe quitte alors Blanche Rive pour poursuivre son aventure.
 Les personnages prennent la route d'[[Estraval]], grande cité du savoir où les attendent de nouvelles révélations.
 
 Entre les recherches sur le [[Sceptre des Abysses]], les mystères entourant [[Zamatta]], les travaux du célèbre scribe Godrik et les secrets des [[Pierre Pourpre]], leur enquête s'apprête à prendre une toute nouvelle dimension.
+
+[[Chapitre 3 - Estraval et la recherche du sceptre]]

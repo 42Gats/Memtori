@@ -903,4 +903,4 @@ Les joueurs quittent [[Estraval]] avec :
 
 Leur prochaine destination est la région maritime où le navire transportant **l'Œil des Profondeurs** aurait mystérieusement disparu.
 
-**Le Sceptre des Abysses commence progressivement à redevenir le centre de leur aventure.**
+Chapitre 4 - WIP
