@@ -1,37 +1,142 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>https://quartz.jzhao.xyz/campagne/joueurs/hatsune-miku</loc>
-    <lastmod>2026-08-01T15:17:37.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/lore/d%C3%A9roul%C3%A9/chapitre-1---le-royaume-de-yudor</loc>
+    <lastmod>2026-08-28T11:31:28.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/campagne/joueurs/percy</loc>
-    <lastmod>2026-08-01T15:17:37.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/lore/d%C3%A9roul%C3%A9/chapitre-2---blanche-rive</loc>
+    <lastmod>2026-08-28T11:31:28.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/campagne/joueurs/zin%C3%A9dinne-griezman</loc>
-    <lastmod>2026-08-01T15:17:37.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/lore/d%C3%A9roul%C3%A9/chapitre-3---estraval-et-la-recherche-du-sceptre</loc>
+    <lastmod>2026-08-28T11:31:28.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/lore/factions/crocs-rouges</loc>
-    <lastmod>2026-08-01T15:17:37.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/lore/d%C3%A9roul%C3%A9/prologue---le-r%C3%A9veil</loc>
+    <lastmod>2026-08-28T11:31:28.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/lore/factions/arca+</loc>
+    <lastmod>2026-08-28T11:31:28.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/lore/factions/acad%C3%A9mie-du-givre</loc>
+    <lastmod>2026-08-28T11:31:28.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/lore/factions/acad%C3%A9mies-d'estraval/acad%C3%A9mie-de-l'alt%C3%A9ration--estraval</loc>
+    <lastmod>2026-08-28T11:31:28.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/lore/factions/acad%C3%A9mies-d'estraval/acad%C3%A9mie-de-l'evocation---estraval</loc>
+    <lastmod>2026-08-28T11:31:28.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/lore/factions/acad%C3%A9mies-d'estraval/acad%C3%A9mie-de-l'influence---estraval</loc>
+    <lastmod>2026-08-28T11:31:28.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/lore/factions/acad%C3%A9mies-d'estraval/acad%C3%A9mie-de-l'ing%C3%A9nierie-arcanique</loc>
+    <lastmod>2026-08-28T11:31:28.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/lore/factions/acad%C3%A9mies-d'estraval/acad%C3%A9mie-des-arcanes---estraval</loc>
+    <lastmod>2026-08-28T11:31:28.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/lore/factions/clerg%C3%A9-de-blanche-rive</loc>
+    <lastmod>2026-08-28T11:31:28.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/lore/factions/conseil-de-blanche-rive</loc>
+    <lastmod>2026-08-28T11:31:28.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/lore/factions/culte-de-bhaal</loc>
+    <lastmod>2026-08-28T11:31:28.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/lore/factions/patte-givr%C3%A9e</loc>
+    <lastmod>2026-08-28T11:31:28.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/lore/factions/tribu-gobeline</loc>
+    <lastmod>2026-08-28T11:31:28.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/lore/factions/vael-turong</loc>
+    <lastmod>2026-08-28T11:31:28.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/lore/locations/blanche-rive</loc>
+    <lastmod>2026-08-28T11:31:28.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/lore/locations/cendreval</loc>
+    <lastmod>2026-08-28T11:31:28.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/lore/locations/estraval</loc>
+    <lastmod>2026-08-28T11:31:28.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/lore/locations/for%C3%AAt-murmurante</loc>
+    <lastmod>2026-08-28T11:31:28.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/lore/locations/l'aegis-d'elyr</loc>
+    <lastmod>2026-08-28T11:31:28.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/lore/locations/mines-de-khazor</loc>
+    <lastmod>2026-08-28T11:31:28.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/lore/locations/rougefeu</loc>
+    <lastmod>2026-08-28T11:31:28.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/lore/locations/r%C3%A9acteur-arcanique</loc>
+    <lastmod>2026-08-28T11:31:28.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/lore/locations/r%C3%A9publique-de-yudor</loc>
+    <lastmod>2026-08-28T11:31:28.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/lore/locations/souterrain-de-yudor</loc>
+    <lastmod>2026-08-28T11:31:28.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/lore/objets/pierre-pourpre</loc>
+    <lastmod>2026-08-28T11:31:28.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/lore/objets/sceptre-des-abysses</loc>
+    <lastmod>2026-08-28T11:31:28.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/lore/personnage/aster-valen</loc>
+    <lastmod>2026-08-28T11:31:28.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/lore/personnage/dummick</loc>
+    <lastmod>2026-08-28T11:31:28.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/lore/personnage/lord-cassian-velmor</loc>
+    <lastmod>2026-08-28T11:31:28.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/lore/personnage/maltherion-veyrith</loc>
+    <lastmod>2026-08-28T11:31:28.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/lore/personnage/sarza</loc>
+    <lastmod>2026-08-28T11:31:28.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/lore/personnage/sigrid</loc>
+    <lastmod>2026-08-28T11:31:28.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/lore/personnage/tar-gal</loc>
+    <lastmod>2026-08-28T11:31:28.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/lore/personnage/yur'gu</loc>
-    <lastmod>2026-08-01T15:17:37.000Z</lastmod>
+    <lastmod>2026-08-28T11:31:28.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/lore/personnage/zamatta</loc>
+    <lastmod>2026-08-28T11:31:28.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/</loc>
-    <lastmod>2026-08-01T15:17:37.000Z</lastmod>
+    <lastmod>2026-08-28T11:31:28.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/campagne/joueurs/</loc>
-    <lastmod>2026-08-01T15:17:47.086Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/campagne/</loc>
-    <lastmod>2026-08-01T15:17:47.086Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/lore/factions/</loc>
-    <lastmod>2026-08-01T15:17:47.087Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/lore/d%C3%A9roul%C3%A9/</loc>
+    <lastmod>2026-08-28T11:31:55.386Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/lore/</loc>
-    <lastmod>2026-08-01T15:17:47.087Z</lastmod>
+    <lastmod>2026-08-28T11:31:55.386Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/lore/factions/</loc>
+    <lastmod>2026-08-28T11:31:55.386Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/lore/factions/acad%C3%A9mies-d'estraval/</loc>
+    <lastmod>2026-08-28T11:31:55.386Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/lore/locations/</loc>
+    <lastmod>2026-08-28T11:31:55.386Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/lore/objets/</loc>
+    <lastmod>2026-08-28T11:31:55.386Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/lore/personnage/</loc>
-    <lastmod>2026-08-01T15:17:47.087Z</lastmod>
+    <lastmod>2026-08-28T11:31:55.386Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/tags/</loc>
-    <lastmod>2026-08-01T15:17:47.087Z</lastmod>
+    <lastmod>2026-08-28T11:31:55.386Z</lastmod>
   </url></urlset>
