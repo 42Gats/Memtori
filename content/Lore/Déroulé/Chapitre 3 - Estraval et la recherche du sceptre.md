@@ -13,7 +13,7 @@
 - [[Aster Valen]]
 - Zephyrus
 - [[Zamatta]]
-- Godrik
+- [[Godrik]]
 - [[Maltherion Veyrith]]
 
 ---
