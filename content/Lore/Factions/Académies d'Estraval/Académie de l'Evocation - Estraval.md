@@ -251,6 +251,7 @@ Les deux académies collaborent notamment sur :
 L'[[Académie de l'Evocation - Estraval]] fournit également régulièrement de l'énergie magique aux ingénieurs pour leurs expériences et leurs prototypes.
 
 La relation reste néanmoins marquée par une certaine condescendance des évocateurs, qui considèrent parfois les ingénieurs comme des mages « incapables de lancer leurs propres sorts ».
+
 ---
 
 ## [[Académie des Arcanes - Estraval]]

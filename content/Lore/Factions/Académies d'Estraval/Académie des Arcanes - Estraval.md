@@ -241,22 +241,6 @@ Les visiteurs peuvent y observer :
 Le musée est particulièrement populaire auprès des enfants d'Estraval.
 
 ---
-
-# Le Laboratoire des Artefacts
-
-Une partie de l'académie est consacrée à l'analyse des objets magiques.
-
-Les salles sont équipées de protections capables de contenir :
-
-- explosions ;
-- malédictions ;
-- décharges magiques ;
-- anomalies dimensionnelles.
-
-Les chercheurs travaillent généralement derrière plusieurs couches de protections.
-
----
-
 # La Salle des Chroniques
 
 Une immense salle circulaire contenant des milliers de projections magiques.
